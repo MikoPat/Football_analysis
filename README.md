@@ -7,13 +7,13 @@ Elementy graficzne [(*output*)](https://github.com/MikoPat/Football_analysis/blo
 - siatka podań 
 - strzały
 - średnia pozycja zawoników
-- podania bramkarza (krótkie i długie)
+- podania bramkarza
 
 **Wykres xG**
 ![xG](https://github.com/MikoPat/Football_analysis/blob/main/Liga%20Mistrzów%202018:2019%20-%20Tottenham%20vs%20Liverpool/output/Wykres_xG.png)
 
-**Strzały**
-![xG](https://github.com/MikoPat/Football_analysis/blob/main/Liga%20Mistrzów%202018:2019%20-%20Tottenham%20vs%20Liverpool/output/Strzały-Tottenham_Liverpool.png)
+**Podania bramkarza Liverpoolu**
+![xG](https://github.com/MikoPat/Football_analysis/blob/main/Liga%20Mistrzów%202018:2019%20-%20Tottenham%20vs%20Liverpool/output/Liverpool-podania_bramkarza.png)
 
 ### Źródło danych
 StatsBomb - https://github.com/statsbomb/open-data
