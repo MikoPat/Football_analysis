@@ -1,6 +1,6 @@
 # Football analysts
 
-Graficzne przedstwienie elementów z meczu piłkarskeigo, w tym przypadku jest to fianł Ligi Mistrzów z sezonu 2018/2019 pomiędzy Tottenham Hotspur, a Liverpoolem
+Graficzne przedstwienie elementów z meczu piłkarskiego, w tym przypadku jest to fianł Ligi Mistrzów z sezonu 2018/2019 pomiędzy Tottenham Hotspur, a Liverpoolem
 
 Elementy graficzne [(*output*)](https://github.com/MikoPat/Football_analysis/blob/main/Liga%20Mistrzów%202018:2019%20-%20Tottenham%20vs%20Liverpool/output):
 - wykres xG (gole oczekiwane)
