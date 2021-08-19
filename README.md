@@ -5,7 +5,7 @@ StatsBomb - https://github.com/statsbomb/open-data
 
 ![StatsBomb Logo](https://github.com/MikoPat/Football_analysis/blob/main/StatsBombLogo.png)
 
-### Wykorzystane biblioteki
+### Wykorzystane pakiety
 
 - tidyverse
 - StatsBombR
